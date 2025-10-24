@@ -1,36 +1,35 @@
-# 6-axis-DOF-Auto-Robotic-Hand
+**6-Axis DOF Auto Robotic Hand (Bluetooth + MIT App Inventor)**
+
 A 6-Axis DOF robotic hand designed for pick-and-place automation, controlled wirelessly via Bluetooth using a custom MIT App Inventor Android app.
 
-Features
+**Features**
 
-6 servo motors providing full DOF robotic arm motion
+-6 servo motors providing complete 6 DOF robotic arm motion
 
-Bluetooth control using MIT App Inventor interface
+=Bluetooth control using an intuitive MIT App Inventor interface
 
-Manual & automatic pick-and-place modes
+=Manual and automatic pick-and-place modes
 
-Real-time servo angle adjustment via sliders
+-Real-time servo angle adjustment with sliders
 
-Ideal for robotics learning and automation projects
+=Compact, low-cost, and perfect for robotics learning or automation projects
 
-Tech Stack
+**Tech Stack**
 
-Microcontroller: ESP32 / Arduino
+-Microcontroller: ESP32 / Arduino
 
-Communication: HC-05 / HC-06 Bluetooth module
+-Communication: HC-05 / HC-06 Bluetooth module
 
-Software: MIT App Inventor
+-Software: MIT App Inventor
 
-Motors: 6 Servo Motors (SG90/MG996R)
+-Motors: 6 Servo Motors (SG90 / MG996R)
 
-Applications
+**Applications**
 
-Educational robotics and automation
+-Educational robotics and automation
 
-Industrial pick-and-place demonstrations
+-Industrial pick-and-place demonstrations
 
-AI and robotic control research
+-AI-based robotic control and research
 
-Developed as an educational robotics project integrating embedded systems, Bluetooth communication, and mobile app control.
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+_**Developed as part of an educational robotics project integrating embedded systems, Bluetooth communication, and app-based wireless control.**_
